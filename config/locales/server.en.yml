@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    jwt_session_enabled: "Enable JWT session plugin"
+    jwt_session_cookie_name: "Name of the JWT session cookie"

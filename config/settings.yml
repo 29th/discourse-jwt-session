@@ -1,0 +1,7 @@
+plugins:
+  jwt_session_enabled:
+    default: true
+    client: true
+  jwt_session_cookie_name:
+    default: discourse_jwt
+    client: false
