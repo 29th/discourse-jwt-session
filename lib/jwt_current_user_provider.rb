@@ -10,7 +10,7 @@ class JwtCurrentUserProvider < Auth::DefaultCurrentUserProvider
 
     payload = {
       sub: user.id,
-      name: user.username
+      name: user.email
     }
 
     jwt = JWT.encode(payload, secret_key, algorithm)
