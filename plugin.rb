@@ -6,8 +6,6 @@
 # authors: wilson29thid
 # url: https://github.com/29th/discourse-jwt-session
 
-gem 'jwt'
-
 enabled_site_setting :jwt_session_enabled
 
 PLUGIN_NAME ||= 'DiscourseJwtSession'
