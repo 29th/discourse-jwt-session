@@ -6,7 +6,7 @@ session cookie, so it can be accessed from other sites on your domain
 ## Installation
 
 Follow [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157)
-how-to from the official Discourse Meta, using `git clone https://github.com/wilson29thid/discourse-jwt-session.git`
+how-to from the official Discourse Meta, using `git clone https://github.com/29th/discourse-jwt-session.git`
 as the plugin command.
 
 ## Verification
